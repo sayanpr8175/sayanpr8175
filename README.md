@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black">
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"> 
