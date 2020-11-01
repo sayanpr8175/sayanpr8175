@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 [![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=sayanpr8175&show_icons=true&theme=radical)](https://github.com/sayanpr8175/)
 
 **Languages and Tools:**  
+### Languages:
+<code><img src="https://raw.githubusercontent.com/sayanpr8175/sayanpr8175/master/img/pl/c.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/sayanpr8175/sayanpr8175/master/img/pl/python.png" height="30"></code>
+
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
 
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black">
