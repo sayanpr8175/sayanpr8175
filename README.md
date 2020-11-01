@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 ### Languages:
-<code><img src="https://raw.githubusercontent.com/sayanpr8175/sayanpr8175/master/img/pl/c.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/sayanpr8175/sayanpr8175/master/img/pl/python.png" height="30"></code>
 
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black">
